@@ -1,3 +1,3 @@
 # three-js-shaders
 
-Working example of lensShader.js: https://bannereyewear.com/create
+A working example of lensShader.js is used on the sunglass lenses at https://bannereyewear.com/create
